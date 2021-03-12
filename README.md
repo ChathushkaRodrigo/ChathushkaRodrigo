@@ -48,4 +48,4 @@
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
 <br>
-<img src ="https://media.tenor.com/view/dragon-ball-z-gaku-mad-power-super-saiyan-gif-14877891" width ="200">
+<img src ="https://giphy.com/stickers/goku-ocMYtK6yU1AE8" width ="200">
