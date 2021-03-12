@@ -1,6 +1,6 @@
 ## System.out.println("Ayubowan🇱🇰");
 
-<img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="250" >
+<img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="200" >
 
 
 
@@ -17,7 +17,6 @@
  - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
  - Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/**
  
-
 
 
 <img src ="https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif" width ="200">
@@ -42,7 +41,6 @@
         <a href="https://www.facebook.com/seniya.rodrigo.7/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
         width="40" /></a>
-
 </p>
 
 
