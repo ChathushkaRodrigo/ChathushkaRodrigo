@@ -12,11 +12,13 @@
 -   I'm an open source enthusiast who is currently an undergraduate of Curtin(Sri Lanka Institute Of Information Technology)following a degree in Software Engineering. Mostly crave for modern day technology and to keep on updating myself in this everchanging industry. I strive myself to keep on contributing to open-source projects and be an active contributer to IT community
                      
 
-- 👨‍💻 I’m currently learning **Java**
+ - 👨‍💻 I’m currently learning **Java**
 
-- 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
+ - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
 
--😆 To know more about me : **https://chathushkarodrigo.github.io/**
+
+
+😆 To know more about me : **https://chathushkarodrigo.github.io/**
 
 
 
@@ -27,13 +29,12 @@
 <a href="https://www.linkedin.com/in/chathushka-seniya-rodrigo-a49365206/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
         height="30" width="40" /></a> 
-
 <a href="https://dev.to/chathushkarodrigo" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV" height="30"
         width="40" /></a>
- <a href="https://stackoverflow.com/users/15300507/chathushka-rodrigo" target="blank"><img align="center"
+ <!---<a href="https://stackoverflow.com/users/15300507/chathushka-rodrigo" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="Stackoverflow" height="30" width="40" /></a> 
+        alt="Stackoverflow" height="30" width="40" /></a> --->
 <a href="https://www.instagram.com/chathushka.rodrigo/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30"
         width="40" /></a>
