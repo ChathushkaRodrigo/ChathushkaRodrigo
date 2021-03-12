@@ -20,7 +20,7 @@
 
 
 
-
+<img src ="https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif" width ="200">
 
 
 
@@ -42,6 +42,7 @@
         <a href="https://www.facebook.com/seniya.rodrigo.7/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
         width="40" /></a>
+
 </p>
 
 
@@ -49,5 +50,5 @@
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
 <br>
-<img src ="https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif" width ="200">
+ 
 <!-----https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif>
