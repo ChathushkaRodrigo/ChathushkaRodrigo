@@ -33,9 +33,9 @@
 <a href="https://dev.to/chathushkarodrigo" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV" height="30"
         width="40" /></a>
- <!---<a href="https://stackoverflow.com/users/15300507/chathushka-rodrigo" target="blank"><img align="center"
+ <a href="https://stackoverflow.com/users/15300507/chathushka-rodrigo" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="Stackoverflow" height="30" width="40" /></a> --->
+        alt="Stackoverflow" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/chathushka.rodrigo/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30"
         width="40" /></a>
