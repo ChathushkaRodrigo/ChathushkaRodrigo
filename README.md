@@ -48,5 +48,5 @@
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
 <br>
-<img src ="http://photobucket.com/images/goku%20gif" width ="200">
+<img src ="https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif" width ="200">
 <!-----https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif>
