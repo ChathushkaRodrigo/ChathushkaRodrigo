@@ -1,6 +1,6 @@
 ## System.out.println("Ayubowan🇱🇰");
 
-<img src="https://gifimage.net/wp-content/uploads/2017/11/goku-turning-super-saiyan-gif-5.gif" width="300">
+<img src="https://gifimage.net/wp-content/uploads/2017/11/goku-turning-super-saiyan-gif-5.gif" width="300" height="300">
 
 
 
