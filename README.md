@@ -12,13 +12,13 @@
 -   I'm an open source enthusiast who is currently an undergraduate of Curtin(Sri Lanka Institute Of Information Technology)following a degree in Software Engineering. Mostly crave for modern day technology and to keep on updating myself in this everchanging industry. I strive myself to keep on contributing to open-source projects and be an active contributer to IT community
                      
 
- - 👨‍💻 I’m currently learning **Java**
+ - 👨‍💻 I’m currently learning **Java☕**
 
  - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
+ -Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/**
 
 
 
-😆 To know more about me : **https://chathushkarodrigo.github.io/**
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true)
+![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
 <br>
 <img src ="https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif" width ="200">
