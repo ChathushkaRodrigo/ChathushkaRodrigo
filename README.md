@@ -48,4 +48,4 @@
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
 <br>
-<img src ="https://tenor.com/view/swan_hack-dab-tux-linux-gif-19010779" width ="200">
+<img src ="https://38.media.tumblr.com/tumblr_m6qqhlDAi71rasv1ao1_500.gif" width ="200">
