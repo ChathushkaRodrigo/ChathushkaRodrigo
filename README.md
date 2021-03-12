@@ -20,7 +20,7 @@
 
 😆 To know more about me : **https://chathushkarodrigo.github.io/**
 
-<img src="https://tenor.com/view/super-saiyan-goku-exhausted-gif-17464302" width="150" >
+
 
 
 <hr>
@@ -47,4 +47,5 @@
 
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
-
+<br>
+<img src ="https://tenor.com/view/swan_hack-dab-tux-linux-gif-19010779" width ="200">
