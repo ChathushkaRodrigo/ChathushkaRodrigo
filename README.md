@@ -1,6 +1,6 @@
 ## System.out.println("Ayubowan🇱🇰");
 
-<img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="300" >
+<img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="250" >
 
 
 
@@ -48,4 +48,4 @@
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
 <br>
-<img src ="https://38.media.tumblr.com/tumblr_m6qqhlDAi71rasv1ao1_500.gif" width ="200">
+<img src ="https://66.media.tumblr.com/7c1ec7ebbffa98f7d2937ae3c067c1e3/tumblr_oymt8tzEeh1ujn35ko1_500.gif" width ="200">
