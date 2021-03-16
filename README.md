@@ -22,7 +22,7 @@
  ![Visitor Count](https://profile-counter.glitch.me/ChathushkaRodrigo/count.svg)
 
 
-<img src ="https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif" width ="200">
+
 
 
 
