@@ -1,6 +1,6 @@
 ## System.out.println("Ayubowan🇱🇰");
 
-<img src ="https://www.canva.com/design/DAEY7Riq5L0/tBMD3PatUmSwX-eH-Y6vZg/view?utm_content=DAEY7Riq5L0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >
+<img src ="CHATHUSHKA RODRIGO.PNG" >
 
 <img src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif" width="200" >
 
