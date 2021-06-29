@@ -13,7 +13,7 @@
 -   I'm an open source enthusiast who is currently an undergraduate of Curtin(Sri Lanka Institute Of Information Technology)following a degree in Software Engineering. Mostly crave for modern day technology and to keep on updating myself in this everchanging industry. I strive myself to keep on contributing to open-source projects and be an active contributer to IT community
                      
 
- - 👨‍💻 I’m currently learning **Java☕**
+ - 👨‍💻 I’m currently learning **JavaScript☕**
 
  - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
  - Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/** <br><br>
