@@ -24,7 +24,12 @@
 
 
 
+<br><br>
+  ### Vibing To
 
+## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work)
+
+[Big thanks to Andrew Novacs for dynamic Spotify Song Card](https://github.com/novatorem)
 
 
 <hr>
