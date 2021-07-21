@@ -20,7 +20,7 @@
  ![Visitor Count](https://profile-counter.glitch.me/ChathushkaRodrigo/count.svg)
 <hr>
   
-  [![Chathushka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChathushkaRodrigo&theme=dracula)](https://github.com/ChathushkaRodrigo/github-readme-activity-graph)
+  [![Chathushka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChathushkaRodrigo&theme=react-dark)](https://github.com/ChathushkaRodrigo/github-readme-activity-graph)
 
 
 
