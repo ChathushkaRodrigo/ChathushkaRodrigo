@@ -18,6 +18,9 @@
  - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
  - Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/** <br><br>
  ![Visitor Count](https://profile-counter.glitch.me/ChathushkaRodrigo/count.svg)
+<hr>
+  
+  [![Chathushka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChathushkaRodrigo&theme=dracula)](https://github.com/ChathushkaRodrigo/github-readme-activity-graph)
 
 
 
