@@ -34,7 +34,7 @@
 <hr>
 <p align="center">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/chathushka-seniya-rodrigo-a49365206/" target="blank"><img align="center"
+<a href="![50476c8b819f00aa7977bd5a5e4d531f-sticker](https://user-images.githubusercontent.com/72795289/126611036-15994d9b-fb35-4762-b223-6bb0e31f0186.png)" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
         height="30" width="40" /></a> 
 <a href="https://dev.to/chathushkarodrigo" target="blank"><img align="center"
