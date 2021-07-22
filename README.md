@@ -15,8 +15,7 @@
                      
 
  - 👨‍💻 I’m currently learning **JavaScript☕**
-  <img src="![2ffde9c259d0125fd476c5997c7ff4c6-sticker](https://user-images.githubusercontent.com/72795289/126611410-68a04e7d-8853-48dd-b8d4-2b65ec40f1a7.png)
-"  >
+  <img src=" ![5c318a3a023b2eba4f0dccf42ff3fb9a-sticker](https://user-images.githubusercontent.com/72795289/126611497-6f9d45fb-569d-447d-aa0f-a1bd470e7fd7.png)"  >
 
  - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
  - Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/** <br><br>
