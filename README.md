@@ -15,8 +15,7 @@
                      
 
  - 👨‍💻 I’m currently learning **JavaScript☕**
-  <img src="https://user-images.githubusercontent.com/72795289/126611259-ec504405-3a7e-42e1-9431-23ced5ab6212.png)
-"  >
+  <img src="https://user-images.githubusercontent.com/72795289/126611259-ec504405-3a7e-42e1-9431-23ced5ab6212.png)"  >
 
  - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
  - Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/** <br><br>
