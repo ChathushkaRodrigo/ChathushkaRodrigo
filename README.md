@@ -53,32 +53,7 @@
         width="40" /></a>
 </p>
 
-<h2 align="left">Coding Activity</h2>
->
- Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-   681.1 hr  ┤                                                                                               ╭─── 
-   680.2 hr  ┤                                                                                              ╭╯    
-   679.4 hr  ┤                                                                                            ╭─╯     
-   678.5 hr  ┤                                                                                   ╭────────╯       
-   677.6 hr  ┤                                                                                   │                
-   676.8 hr  ┤                                                                                  ╭╯                
-   675.9 hr  ┤                                                                                 ╭╯                 
-   675.0 hr  ┤                                                                                ╭╯                  
-   674.1 hr  ┤                                                                               ╭╯                   
-   673.3 hr  ┤                                                                               │                    
-   672.4 hr  ┤                                                     ╭─────────────────────────╯                    
-   671.5 hr  ┤                                                    ╭╯                                              
-   670.7 hr  ┼────────────────────────────────────────────────────╯                                               
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
 
 ![Chathushka's github stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&hide_border=true&color:black) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathushkaRodrigo&layout=compact&theme=light)
