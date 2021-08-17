@@ -34,24 +34,7 @@
 
 
 <hr>
-<p align="center">
-<h3 align="left">Connect with me:</h3>
-<a href="![50476c8b819f00aa7977bd5a5e4d531f-sticker](https://user-images.githubusercontent.com/72795289/126611036-15994d9b-fb35-4762-b223-6bb0e31f0186.png)" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
-        height="30" width="40" /></a> 
-<a href="https://dev.to/chathushkarodrigo" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV" height="30"
-        width="40" /></a>
- <a href="https://stackoverflow.com/users/15300507/chathushka-rodrigo" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="Stackoverflow" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/chathushka.rodrigo/" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30"
-        width="40" /></a>
-        <a href="https://www.facebook.com/seniya.rodrigo.7/" target="blank"><img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
-        width="40" /></a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChathushkaRodrigo" alt="ChathushkaRodrigo" /></a> </p>
 
 
 
