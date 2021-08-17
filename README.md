@@ -57,6 +57,5 @@
 
 <br>
  
-![Chathushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&count_private=true)
-&show_icons=true&theme=tokyonight)
+![Chathushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&count_private=true&show_icons=true&theme=tokyonight)
 
