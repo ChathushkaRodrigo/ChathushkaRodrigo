@@ -22,7 +22,7 @@
  ![Visitor Count](https://profile-counter.glitch.me/ChathushkaRodrigo/count.svg)
 <hr>
   
-[![Chathushka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChathushkaRodrigo&theme=xcode)](https://git.io/ChathushkaRodrigo)
+[![Chathushka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChathushkaRodrigo&theme=react-dark)](https://git.io/ChathushkaRodrigo)
 
 
 
@@ -57,4 +57,5 @@
 
 <br>
  
-<!-----https://media.giphy.com/media/X3MUPjJ2ysbBu/giphy.gif>
+![Chathushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChathushkaRodrigo&show_icons=true&theme=radical)
+
