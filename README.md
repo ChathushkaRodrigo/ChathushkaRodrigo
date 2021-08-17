@@ -23,7 +23,9 @@
 <hr>
   
 [![Chathushka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChathushkaRodrigo&theme=react-dark)](https://git.io/ChathushkaRodrigo)
-
+<hr>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChathushkaRodrigo" alt="ChathushkaRodrigo" /></a> </p>
+  <hr>
 
 
 <br><br>
@@ -34,7 +36,6 @@
 
 
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChathushkaRodrigo" alt="ChathushkaRodrigo" /></a> </p>
 
 
 
