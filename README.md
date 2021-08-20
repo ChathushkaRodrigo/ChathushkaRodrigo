@@ -17,7 +17,7 @@
  - 👨‍💻 I’m currently learning **JavaScript☕**
  
 
- - 📫 Reach me: **chathushkaseniyarodrigo@protonmail.com**
+ - 📫 Reach me: **chathushkarodrigo@gmail.com**
  - Here's my online portfolio 😆 : **https://chathushkarodrigo.github.io/** <br><br>
  ![Visitor Count](https://profile-counter.glitch.me/ChathushkaRodrigo/count.svg)
 <hr>
