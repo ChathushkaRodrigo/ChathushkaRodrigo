@@ -3,7 +3,7 @@
 
 
 <h2> System.out.println("Ayubowan🇱🇰");<h2>
-<img src="https://user-images.githubusercontent.com/72795289/126611089-bee6ba95-dc2f-4078-bea8-6bc39d0931ca.png" width="200" >
+<img src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-44df62f4-1622-462f-b314-8fb0489c2aa5-v1.png?transparent=1&palette=1" width="200" >
 
   ```
   For Academic Purposes
