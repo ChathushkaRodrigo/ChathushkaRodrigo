@@ -5,15 +5,6 @@
 <h2> System.out.println("Ayubowan🇱🇰");<h2>
 <img src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-44df62f4-1622-462f-b314-8fb0489c2aa5-v1.png?transparent=1&palette=1" width="200" >
 
-  ```
-  For Academic Purposes
-  
-  Student IT :IT20192600
-  Student Name : Rodrigo H.C.S
-
-  ```
-
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 -   I'm an open source enthusiast who is currently an undergraduate of Curtin(Sri Lanka Institute Of Information Technology)following a degree in Software Engineering. Mostly crave for modern day technology and to keep on updating myself in this everchanging industry. I strive myself to keep on contributing to open-source projects and be an active contributer to IT community
