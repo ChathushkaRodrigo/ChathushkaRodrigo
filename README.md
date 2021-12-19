@@ -30,7 +30,7 @@
 <br><br>
   ### Vibing To
 
-## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work)
+## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/fqxw0wnlxxvkq61obsx21pcdw)
 
 
 
