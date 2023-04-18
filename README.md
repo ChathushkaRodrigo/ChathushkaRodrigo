@@ -1,4 +1,5 @@
 <h2> System.out.println("Ayubowan🇱🇰");<h2>
+ ![img](https://user-images.githubusercontent.com/72795289/232680190-03c97231-520d-4dac-aa14-b1908a09f50f.gif)
 
 # 💫 About Me:
 🔭 I’m currently working on DevOps Projects ✅<br>👨🏻‍💻 I’m looking to collaborate on Infrastructure related issues 👍🏻<br>🤝 I’m looking for help with applying tools to existing infrastructure ♾️<br>🌱 I’m currently learning Cloud Technologies 🐳<br>💬 Ask me about anything related to DevOps and Cloud ☁️<br>⚡ Fun fact : K8's architecture is completely based on ship-cargo scenario ⛴️
